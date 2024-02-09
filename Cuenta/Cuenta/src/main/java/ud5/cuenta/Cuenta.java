@@ -50,4 +50,6 @@ public class Cuenta {
         System.out.println("Nº de cuenta: " + getNumero());
         System.out.println("Saldo: " + getSaldo() + " €");
     }
+    
+    //borar esto
 }
